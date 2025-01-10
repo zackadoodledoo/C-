@@ -1,10 +1,9 @@
 using System;
 
-class Program
+partial class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World! 🌍"); // The classic greeting with a twist!
-        Console.WriteLine("Welcome to the world of C#! Let's build something amazing together! 🚀");
+        Console.WriteLine("Hello, World! My name is Zack");
     }
 }
